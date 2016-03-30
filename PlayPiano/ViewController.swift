@@ -133,7 +133,7 @@ class ViewController: UIViewController {
             }
         }
     }
-
+//
     func selectBlock(sender: UIButton) {
         if sender.backgroundColor == UIColor.whiteColor() {
             gameOver()
